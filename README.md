@@ -4,7 +4,7 @@
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 <h3 align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="https://github.com/Sravya0408/Sravya0408/commit/6b650df9af3ebb9b7cc7a6d93f838ea71b427d23#diff-c7ca1cf88def8b8431679fe7e24d38c78b05a7736b660e593ee4e4a20728514e"> </p>
+<p align="left" img src="https://github.com/Sravya0408/Sravya0408/commit/6b650df9af3ebb9b7cc7a6d93f838ea71b427d23#diff-c7ca1cf88def8b8431679fe7e24d38c78b05a7736b660e593ee4e4a20728514e"> </p>
 
 - 🔭 I’m currently learning UI/UX
 

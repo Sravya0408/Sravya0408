@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm SRAVYA</h1>
 <h3 align="center">A passionate UI/UX Designer from India</h3>
-<h3 align="right"<img src="https://raw.githubusercontent.com/Sravya0408/Sravya0408/main/gif1.jpg" width="400" height="400" />
+<h3 align="right"<img src="https://raw.githubusercontent.com/Sravya0408/Sravya0408/main/gif1.jpg" width="400" height="400" ![git1 (1)](https://github.com/user-attachments/assets/a4835b9e-e5c9-4411-9a39-ab223b027e3b)"/>
+
 
 
 

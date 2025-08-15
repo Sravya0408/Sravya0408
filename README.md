@@ -4,7 +4,7 @@
 <h3 align="center">A passionate UI/UX Designer from India</h3>
 <h3 align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left"> <img src="![Uploading image.png…]()
+<p align="left"> <img src="<img width="1000" height="667" alt="image" src="https://github.com/user-attachments/assets/2a1e26b2-d7c5-4389-8a6a-ec11ce4f99b1" />
 " />
 "> </p>
 

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravya0408&label=Profile%20views&color=0e75b6&style=flat" alt="sravya0408" /> </p>
 
-- 🔭 I’m currently working on [Vehicle Service Management System](https://github.com/Sravya0408/vehicle-service-management-system)
+- 🔭 I’m currently learning UI/UX
 
 - 📫 How to reach me **mamidisravya47@gmail.com**
 
